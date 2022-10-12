@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Adesso.<br>🌱 I’m currently learning more about Fullstack Web development<br>📫 How to reach me: Email - mail@florian-ko.ch<br>⚡ Fun fact: I usually have +300 tabs open
+🔭 I’m currently working at adesso.<br>🌱 I’m currently learning more about Fullstack Web development<br>📫 How to reach me: Email - mail@florian-ko.ch<br>⚡ Fun fact: I usually have +300 tabs open
 
 
 # 💻 Tech Stack:
